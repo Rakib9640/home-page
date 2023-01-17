@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: rgb(240, 248, 255);
+  
+
+}
+/* =====================================  nave ===================== */
+ul li{
+    display: inline;
+    float: left;
+    padding: 5px;
+    margin:35px 15px;
+}
+nav{
+    margin: 40px 15px;
+}
+
+   
+ul li a{
+    border-radius:5px;
+    padding:5px 7px;
+
+}
+ul button{
+
+    padding: 5px 15px;
+    margin:35px 15px;
+    
+}
+ a{
+    text-decoration: none;
+
+}
+/* ========part-1========= */
+.part-1{
+    width: 30%;
+    float: left;
+    text-align: center;
+
+}
+
+/* ==========part-2======= */
+.part-2{
+    width:70%;
+    float: left;
+
+}
+/* ===========part-3======== */
+.part-3{
+width: 40%;
+float: left;
+display: inline;
+padding:75px;
+    
+}
+/* ============part-8============ */
+div h3{
+    padding: 5px 0px;
+}
+div h1{
+    padding: 8px 0px;
+    font-size:7ch;
+    display: inline;
+}
+div h4{
+    padding: 8px 0px;
+}
+/* ==============part-4=========== */
+.part-4{
+    margin-top: 20px;
+   
+}
+/* ====================button======= */
+div button {
+  margin-left:20px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  background-color: transparent;
+  border:2px solid #7F5EFF;
+  
+}
+
+
+
+/* ================part-5======== */
+.part-5{
+    width: 60%;
+    height: 300px;
+    float: left;
+    display: inline;
+    margin-bottom: 8ch;
+}
+img{
+    width:100%;
+    height:auto;
+}
+
+
+
+/* ================================================= body ===================== */
+
+
+body{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 850px;
+
+}
+/* ======================= bnt-1============ */
+.bnt-1{
+    background-color: #7F5EFF}
+    /* ===================a-hover============== */
+a:hover{
+    color: springgreen;
+    transition: 1s;
+
+}
+.clor{
+    color: #FFC21A;
+}
+.rt{
+color: #8182EE;
+}
+
+
+
+
+
+
+
+
